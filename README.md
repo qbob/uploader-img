@@ -1,6 +1,9 @@
 # VUE 图片裁剪上传组件 v1.0
+
 ######此组件是使用HeyUI的UI框架结合vue-cropper图片裁剪库，做的一个图片裁剪/上传一体的组件。
+
 ######下列示例图仅供参考，真实效果可能会有些许的差别。
+
 ![](https://cdn.nlark.com/yuque/0/2019/png/285274/1575967666100-assets/web-upload/36163063-63ac-484e-88c6-f4ea9d68f6a7.png)
 ![](https://cdn.nlark.com/yuque/0/2019/png/285274/1575967666102-assets/web-upload/b42b65d7-907c-4600-ba38-1f219f5ac7d6.png)
 
@@ -12,6 +15,7 @@
 ```
 vue-cropper
 ```
+
 地址：[vue-router](https://github.com/vuejs/vue-router "vue-router")
 
 <hr>
@@ -20,6 +24,7 @@ vue-cropper
 ```
 heyui
 ```
+
 地址：[heyui](https://www.heyui.top/ "heyui")
 
 <hr>
@@ -141,6 +146,7 @@ UploadFile(param,(res) => {
 <hr>
 
 #####如有vue项目的需要找兼职的，可联系我，我可兼职搞哦~
+
 #####邮箱：806606688@qq.com
 
 <hr>
