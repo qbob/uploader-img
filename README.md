@@ -79,7 +79,7 @@ import axios from 'axios';
 //上传图片
 export const UploadFile= (file,callback) => {
     return new Promise((resolve, reject) => {
-        Axio({
+        axios({
             url: uploadURL, //接口地址
             method:'post',
             data: file,
